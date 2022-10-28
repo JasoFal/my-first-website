@@ -1,0 +1,46 @@
+h1 {
+  color: #158a7f;
+  text-align: center;
+  font-weight: 900;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 100px;
+}
+
+h2 {
+  text-align: center;
+  color: #158a7f;
+  font-size: 30px;
+  font-weight: 300;
+}
+
+img {
+  max-width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+body {
+  text-align: center;
+  font-size: 15px;
+  font-family: 'Times New Roman', Times, serif;
+  background-color: #ddeeee;
+  color: #4000ff;
+}
+
+h3 {
+  font-size: 45px;
+  font-weight:500px;
+  line-height: 32px;
+}
+
+ul li {
+  text-align: center;
+  list-style-position: inside;
+}
+
+ul {
+  font-size: 20px;
+  line-height: 30px;
+  text-align: center;
+}
